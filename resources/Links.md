@@ -1,4 +1,4 @@
-# CONTENTS
+# Contents
 
 ## Week 0 (Introduction) Additional Resources:
 
